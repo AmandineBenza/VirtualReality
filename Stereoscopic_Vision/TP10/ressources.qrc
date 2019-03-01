@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/shaders">
+        <file>simple.frag</file>
+        <file>simple.vert</file>
+        <file>texture.vert</file>
+        <file>texture.frag</file>
+        <file>lumiere.frag</file>
+        <file>lumiere.vert</file>
+        <file>mesh.frag</file>
+        <file>mesh.vert</file>
+        <file>plan.frag</file>
+        <file>plan.vert</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>back.jpg</file>
+        <file>bottom.jpg</file>
+        <file>front.jpg</file>
+        <file>left.jpg</file>
+        <file>POLYTECH_RVB.jpg</file>
+        <file>right.jpg</file>
+        <file>texture_de.jpg</file>
+        <file>top.jpg</file>
+        <file>cubeRose128.png</file>
+        <file>container.jpg</file>
+        <file>ice.jpg</file>
+        <file>heightmap7-420x420.png</file>
+        <file>snow1.jpg</file>
+        <file>rock_cave_stylized_height.png</file>
+        <file>ecranRV.PNG</file>
+    </qresource>
+    <qresource prefix="/models">
+        <file>GeeBee.jpg</file>
+        <file>GeeBee2.x</file>
+        <file>IUT_INFO.X</file>
+    </qresource>
+</RCC>
